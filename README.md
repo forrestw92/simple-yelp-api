@@ -9,11 +9,11 @@ https://apie.xyz/doc/yelp
 > I decided to make a simple api to request business details from yelp with a option to get latiude and longitude from user input.
 
 ## Installation
-You will need a couple api keys from Help.com and Yelp.com and edit /config/index.js with the new keys/appID/appCode
+You will need a couple api keys from Here.com and Yelp.com and edit /config/index.js with the new keys/appID/appCode
 
 For Yelp you can get it [Here](https://www.yelp.com/developers/v3/manage_app)
 
-For Help.com you can get it [Here](https://developer.here.com/?create=Freemium-Basic&keepState=true&step=account)
+For Here.com you can get it [Here](https://developer.here.com/?create=Freemium-Basic&keepState=true&step=account)
 
 > npm install
 
